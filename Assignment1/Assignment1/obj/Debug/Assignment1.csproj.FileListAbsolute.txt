@@ -1,0 +1,5 @@
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\harsh\Desktop\SENG8040Software Methodologies\Assignment1\Assignment1\obj\Debug\Assignment1.exe
